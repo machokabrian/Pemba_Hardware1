@@ -56,7 +56,7 @@ $wa_link = fn($text) => 'https://wa.me/' . $whatsapp_num . '?text=' . rawurlenco
 
   <!-- Styles -->
   <link rel="stylesheet" href="assets/css/style.css" />
-  <link rel="stylesheet" href="assets/css/home.css" />
+  <link rel="stylesheet" href="home.css" />
   <link rel="icon" href="assets/images/favicon.png" type="image/png" />
 
   <!-- Local business data for Google -->
